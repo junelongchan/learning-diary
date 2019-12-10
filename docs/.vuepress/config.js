@@ -26,7 +26,7 @@ module.exports = {
 
         sidebar: utils.inferSiderbars(),
         lastUpdated: '上次更新',
-        repo: 'https://github.com/junelongchan/',
+        repo: 'junelongchan/learning-diary',
         repoLabel: 'GitHub',
         editLinks: true,
         docsDir: 'docs',
